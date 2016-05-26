@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<script src="script.js"></script>
+		<title></title>
 	</head>
 	<body>
 		<nav>
