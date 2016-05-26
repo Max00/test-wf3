@@ -8,6 +8,7 @@
 				<li>Contact</li>
 			</ul>
 		</nav>
+		<header><h1>Bonjour</h1></header>
 		<?php
 		echo 'First line here<br>';
 		echo 'Hello Git';
