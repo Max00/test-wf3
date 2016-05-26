@@ -16,5 +16,6 @@
 		echo '<br>';
 		echo 'Third line';
 		?>
+		<footer>Infos intéressantes</footer>
 	</body>
 </html>
