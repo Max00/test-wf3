@@ -2,6 +2,7 @@
 	<head>
 		<script src="script.js"></script>
 		<title></title>
+		<script src="other.js"></script>
 	</head>
 	<body>
 		<nav>
